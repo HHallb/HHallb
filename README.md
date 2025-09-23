@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 <!--
 **HHallb/HHallb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+The items here are mainly related to my work in computational mechanics and computational materials science at Lund university. More information can be found on [my webpage](https://hhallb.github.io/).
+
+## 🚀 Projects
+- 🔭 I’m currently working on [pyPFC](), a Python package for Phase Field Crystal (PFC) simulations.
