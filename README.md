@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 The items here are mainly related to my work in computational mechanics and computational materials science. More information can be found on [my webpage](https://hhallb.github.io/).
 
-- 🔭 I’m currently working on [pyPFC](), a Python package for Phase Field Crystal (PFC) simulations.
+- 🔭 I’m currently working on [pyPFC](https://github.com/HHallb/pyPFC), a Python package for Phase Field Crystal (PFC) simulations.
